@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="ina219" type="ina_pub.py" name="ina219_node" output="screen"></node>
+</launch>
