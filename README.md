@@ -8,7 +8,7 @@ Before run launch file. Please enable I2C first and change permission for /dev/i
 Git clone the package:
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/tallersation/ina219.git ina219   
+git clone https://github.com/tallersation/ina219-ros-package.git ina219   
 cd ~/catkin_ws/catkin_make
 ```
 
