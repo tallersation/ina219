@@ -12,10 +12,12 @@ git clone https://github.com/tallersation/ina219.git ina219
 cd ~/catkin_ws/catkin_make
 ```
 
-
 INA219 Library Installation Commands:
-```sudo pip3 install pi-ina219```
-
+```
+sudo pip3 install pi-ina219
+```
 
 Commands:
-```sudo chmod 777 /dev/i2c*```
+```
+sudo chmod 777 /dev/i2c*
+```
