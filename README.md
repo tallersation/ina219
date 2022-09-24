@@ -9,7 +9,7 @@ Git clone the package:
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/tallersation/ina219-ros-package.git ina219   
-cd ~/catkin_ws/catkin_make
+~/catkin_ws/catkin_make
 ```
 
 INA219 Library Installation Commands:
